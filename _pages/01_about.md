@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /amandayverga/about/
 ---
 
 Amanda is a third year undergraduate student studying mathematics and economics.
