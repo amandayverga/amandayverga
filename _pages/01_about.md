@@ -4,7 +4,4 @@ title: About
 permalink: /about/
 ---
 
-About content goes here.
-
-* A list item
-* Another list item
+Amanda is a third year undergraduate student studying mathematics and economics.
