@@ -58,8 +58,8 @@ input[type=submit]:hover {
     <select id="subject" name="subject">
     </select>
 
-    <label for="body">Body</label>
-    <textarea id="body" name="body" placeholder="Write something.." style="height:200px"></textarea>
+    <label for="message">Message</label>
+    <textarea id="message" name="message" placeholder="Write something.." style="height:200px"></textarea>
 
     <input type="submit" value="Submit">
   </form>
