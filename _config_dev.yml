@@ -1,12 +1,11 @@
 # Site Settings
-title: Start Jekyll
-email: taniarascia@gmail.com
+title: Amanda Verga's Website
+email: amandayverga@gmail.com
 description: >
-  A guide to getting started with Jekyll.
+  Amanda's attempt at creating a website.
 baseurl: ""
-url: "http://localhost:4000"
-twitter_username: taniarascia
-github_username:  taniarascia
+url: "https://amandayverga.github.io/"
+github_username:  amandayverga
 # Build Settings
 sass:
   sass_dir: _sass
